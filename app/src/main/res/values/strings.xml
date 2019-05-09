@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Dementia Test</string>
+
+    <string name="checkBoxText">I have this symptom</string>
+    <string name="backBtnText">Back</string>
+
+    <!-- Source of symptoms:
+    https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dementia-early-signs
+    -->
+    <string name="disclaimerTitle">Disclaimer</string>
+    <string name="disclaimer">This is NOT an official diagnosis tool.</string>
+    <string name="learn_more">To learn more about dementia, click the button below.</string>
+
+    <string name="onboard_one_title">Memory loss</string>
+    <string name="onboard_one">It’s normal to occasionally forget appointments and remember them later. A person with dementia may forget things more often or not remember them at all.</string>
+
+    <string name="onboard_two_title">Difficulty with tasks</string>
+    <string name="onboard_two">People can get distracted and they may forget to serve part of a meal. A person with dementia may have trouble with all the steps involved in preparing a meal.</string>
+
+    <string name="onboard_three_title">Disorientation</string>
+    <string name="onboard_three">A person with dementia may have difficulty finding their way to a familiar place or feel confused about where they are,
+        or think they are back in some past time of their life.</string>
+
+    <string name="onboard_four_title">Language problems</string>
+    <string name="onboard_four">Everyone has trouble finding the right word sometimes, but a person with dementia may forget simple words or substitute inappropriate words,
+        making sentences difficult to understand. They may also have trouble understanding others.</string>
+
+    <string name="onboard_five_title">Changes in abstract thinking</string>
+    <string name="onboard_five">Managing finances can be difficult for anyone, but a person with dementia may have trouble knowing what the numbers mean or what to do with them.</string>
+
+    <string name="onboard_six_title">Poor judgment</string>
+    <string name="onboard_six">Many activities require good judgement. When this ability is affected by dementia, the person may have difficulty making appropriate decisions,
+        such as what to wear in cold weather.</string>
+
+    <string name="onboard_seven_title">Poor spatial skills</string>
+    <string name="onboard_seven">A person with dementia may have difficulty judging distance or direction when driving a car.</string>
+
+    <string name="onboard_eight_title">Misplacing things</string>
+    <string name="onboard_eight">Anyone can temporarily misplace a wallet or keys. A person with dementia may not know what the keys are for.</string>
+
+    <string name="onboard_nine_title">Personality or behavior changes</string>
+    <string name="onboard_nine">Everyone becomes sad or moody from time to time. Someone with dementia can have rapid mood swings, for no apparent reason. They can become confused,
+        suspicious or withdrawn. Some can become more outgoing.</string>
+
+    <string name="onboard_ten_title">Loss of initiative</string>
+    <string name="onboard_ten">It is normal to tire of some activities. Dementia may cause a person to lose interest in previously enjoyed activities or require cues prompting
+        them to become involved.</string>
+
+</resources>
